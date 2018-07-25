@@ -20,6 +20,10 @@ footer {
 	margin-top: 300px;
 }
 
+label {
+	width: 100%;
+}
+
 .navbar {
 	border-bottom: 1px solid black;
 }
